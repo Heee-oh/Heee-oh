@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=siai12)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heee-oh&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heee-oh&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heee-oh&layout=compact&theme=dark)
