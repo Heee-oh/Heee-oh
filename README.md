@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=siai12)
+<img width="564" height="324" alt="image" src="https://github.com/user-attachments/assets/1314fcf1-53db-4f43-8c6f-720d43650f83" />
 
 Zypt Project : https://github.com/HKNU-Zypt/Zypt_BackEnd
